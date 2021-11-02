@@ -1,0 +1,2 @@
+# minimalbrain
+hugo minimal theme
